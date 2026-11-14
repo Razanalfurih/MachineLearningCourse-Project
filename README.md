@@ -55,12 +55,6 @@ The results are compared before and after applying each technique.
 ### 7. Visualization and Decision Rules
 Decision Tree diagrams are generated to visualize the classification process. The decision rules are also extracted to better understand how the models classify emails.
 
-## How to Run
-1. Open the project notebook in Google Colab.
-2. Upload the `spambase.zip` dataset when prompted.
-3. Run the notebook cells in order.
-4. Review the accuracy results, confusion matrices, comparison tables, and Decision Tree visualizations.
-
 ## Team Members
 - Razan Alfurih
 - Rand Alrabiah
